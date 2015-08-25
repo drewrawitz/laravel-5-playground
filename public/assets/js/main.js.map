@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":[],"mappings":";;AAAA,IAAA,eAAA,GAAA,SAAA,eAAA,CAAA,GAAA;SAAA,GAAA,GAAA,EAAA;CAAA,CAAA;AACA,OAAA,CAAA,GAAA,CAAA,eAAA,CAAA,EAAA,CAAA,CAAA,CAAA","file":"main.js","sourcesContent":["var isOfDrinkingAge = age => age > 20;\nconsole.log(isOfDrinkingAge(22));\n"],"sourceRoot":"/source/"}
